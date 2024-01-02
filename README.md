@@ -1,0 +1,1 @@
+Removes search and Recent Games from Home

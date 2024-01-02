@@ -1,0 +1,12 @@
+div[class*="gamepadtabbedpage_FixCenterAlignScroll"][class*="scrollpanel_ScrollPanel_"][class*="scrollpanel_ScrollX_"][class*="Panel"] > :nth-last-child(2),
+div[class*="gamepadhome_RecentSection_"].Panel + div[class*="focusring_FocusRingRoot"],
+div[class*="gamepadhome_RecentSection_"].Panel
+{
+    display: none;
+}
+
+div[class*="gamepadhome_RecentSection_"].Panel + [class*="gamepadhome_TabbedContent_"]
+{
+    margin-top: 50px;
+}
+

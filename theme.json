@@ -1,0 +1,10 @@
+{
+    "name": "Safe On Start",
+    "author": "nattroj",
+    "manifest_version": 3,
+    "target": "Home",
+    "description": "Removes search and Recent Games from Home",
+    "inject": {
+        "shared.css": ["bigpicture"]
+    }
+}

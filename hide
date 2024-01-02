@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+cd ~/homebrew/themes/safe-on-start
+
+cat _shared.css > shared.css
